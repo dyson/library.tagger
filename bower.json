@@ -1,0 +1,19 @@
+{
+  "name": "library.tagger",
+  "version": "0.0.1",
+  "homepage": "https://github.com/dyson/library.tagger",
+  "authors": [
+    "Dyson Simmons <dysonsimmons@gmail.com>"
+  ],
+  "description": "Turn an input field into a tag input field.",
+  "main": "js/library.tagger.js",
+  "keywords": [
+    "javascript",
+    "jQuery",
+    "library",
+    "tag",
+    "tags"
+  ],
+  "license": "MIT",
+  "ignore": []
+}
